@@ -5,7 +5,8 @@
 
 뇌가 굳지 않길 바라며 이 저장소에 있는 나의 손으로만 문제를 해결하는 공간입니다.
 다양한 알고리즘과 자료구조를 활용한 문제풀이 공간입니다.
----
+
+
 
 ## 폴더 구조
 
@@ -14,6 +15,7 @@
 
 참고. bfs & dfs 는 내부적으로 Queue 와 Stack 을 사용합니다. 이런 경우 범위가 넓은 bfs / dfs 폴더로 해당 문제를 분류합니다.
 
+```
 root/
 ├── README.md
 ├── Greedy/
@@ -21,9 +23,9 @@ root/
 ├── dynamic programming/
 ├── hashtable/
 ├── stack&queue/
-├── strings/
+└── strings/
+```
 
----
 
 ## 사용 언어
 
